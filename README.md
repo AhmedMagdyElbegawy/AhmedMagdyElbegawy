@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 
-I’m **Ahmed Magdy**, a **???**, **???**, and **?** with over **??? years** of ??? in **???**.
+I’m **Ahmed Magdy**, a **Cybersecurity Researcher**, and **Bug Bounty Hunter**.
 
-As the **Founder & CEO** of [???](https://www.???.com/), I specialize in **???** for ???, including **???**. My work has earned **???** recognition across numerous platforms.
+I specialize in **identifying web vulnerabilities** for responsible disclosure programs including **OWASP Top 10** issues such as XSS, IDOR, SSRF, and authentication flaws.
 
 I am constantly pushing the boundaries of **cybersecurity research**, automating security testing, and contributing to open-source security tools.
 
@@ -13,24 +13,18 @@ I am constantly pushing the boundaries of **cybersecurity research**, automating
 
 ## 🔍 **What I Do**
 
-### 💻 **???**
-- **???:** **???:**.
-- **???:** **???:**.
-- **???:** **???:**.
+### 💻 **Web Application Security**
+- **Bug Bounty Hunting:** Finding vulnerabilities in real-world applications.
+- **Penetration Testing:** Simulating attacker techniques to improve security.
 
-### 🎯 **???**
-- **???:** **???:**.
-- **???:** **???:**.
-- **???:** **???:**.
-
-### 🛠 **???**
-- **???:** **???:**.
-- **???:** **???:**.
-- **???:** **???:**.
+### 🎯 **Vulnerability Research**
+- **XSS / IDOR / SSRF / SQLi:** Exploitation and bypass research.
+- **Authentication Bypass:** Testing session handling and access control.
+- **Logic Bugs:** Identifying business logic abuse scenarios.
 
 ---
 
-## 🌟 **???**
+## 🌟 ****
 
 - **[???](https://github.com/AhmedMagdyElbegawy/???):** A ???.
 - **[???](https://github.com/AhmedMagdyElbegawy/???):** A ???.
@@ -51,30 +45,31 @@ I am constantly pushing the boundaries of **cybersecurity research**, automating
 
 ## 📝 **Skills & Tools**
 
-- **???:** ???  
-- **???:** ???  
-- **???:** ???  
-- **???:** ???  
-- **???:** ???  
+- **Web Security:** XSS, SQLi, IDOR, SSRF, Authentication Bypass  
+- **Tools:** Burp Suite, ffuf, Nmap, Gobuster, Wireshark  
+- **Languages:** Python, Bash  
+- **Bug Bounty Platforms:** HackerOne, Bugcrowd  
+- **Recon:** Subdomain enumeration, endpoint discovery, OSINT  
 
 ---
 
 ## 📫 **Connect with Me**
 
-- **🌐 Website:** [???](https://www.???.com/)  
-- **📩 Email:**   [???](https://www.???.com/)  
-- **🔗 LinkedIn:** [???](https://www.???.com/)  
-- **🐙 GitHub:** [???](https://www.???.com/)  
-- **🐦 Twitter:** [???](https://www.???.com/)  
-- **📜 Youtube:** [???](https://www.???.com/)  
+- **🌐 Website:** https://ahmedmagdy-sec.com  
+- **📩 Email:** contact@ahmedmagdy-sec.com  
+- **🔗 LinkedIn:** https://linkedin.com/in/ahmedmagdy  
+- **🐙 GitHub:** https://github.com/AhmedMagdyElbegawy  
+- **🐦 Twitter:** https://twitter.com/ahmedmagdy  
+- **📜 YouTube:** https://youtube.com/@ahmedmagdy-sec  
 
 ---
 
 ## 📜 **License**
-All code and documentation in my repositories are available under the **[MIT License](LICENSE)**.
 
-> *"Stay curious, stay secure, and always be one step ahead of the threat."*  
+All code and documentation in my repositories are available under the **MIT License**.
 
-**Thank you for visiting my profile!** Let’s collaborate on cybersecurity research and make the digital world safer. 🚀🔥
+> *"Stay curious, stay secure, and always be one step ahead of the threat."*
 
 ---
+
+**Thank you for visiting my profile! 🚀**
