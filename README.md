@@ -55,12 +55,9 @@ I am constantly pushing the boundaries of **cybersecurity research**, automating
 
 ## 📫 **Connect with Me**
 
-- **🌐 Website:** https://ahmedmagdy-sec.com  
-- **📩 Email:** contact@ahmedmagdy-sec.com  
-- **🔗 LinkedIn:** https://linkedin.com/in/ahmedmagdy  
-- **🐙 GitHub:** https://github.com/AhmedMagdyElbegawy  
-- **🐦 Twitter:** https://twitter.com/ahmedmagdy  
-- **📜 YouTube:** https://youtube.com/@ahmedmagdy-sec  
+- **🌐 Website:** https://ahmedmagdyelbegawy.github.io/portfolio
+- **🔗 LinkedIn:** https://www.linkedin.com/in/ahmed-magdy-716665289
+- **🐙 GitHub:** https://github.com/AhmedMagdyElbegawy
 
 ---
 
